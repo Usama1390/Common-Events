@@ -1,0 +1,9 @@
+c:\users\usama\documents\visual studio 2012\Projects\Common Events\Common Events\bin\Debug\Common Events.exe.config
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Common Events\Common Events\bin\Debug\Common Events.exe
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Common Events\Common Events\bin\Debug\Common Events.pdb
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Common Events\Common Events\obj\Debug\Common Events.csprojResolveAssemblyReference.cache
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Common Events\Common Events\obj\Debug\Common_Events.Properties.Resources.resources
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Common Events\Common Events\obj\Debug\Common Events.csproj.GenerateResource.Cache
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Common Events\Common Events\obj\Debug\Common Events.exe
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Common Events\Common Events\obj\Debug\Common Events.pdb
+C:\Users\Usama\Documents\Visual Studio 2012\Projects\Common Events\Common Events\obj\Debug\Common_Events.Form1.resources
